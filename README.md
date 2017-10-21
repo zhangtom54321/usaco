@@ -1,2 +1,2 @@
 # usaco
-My solutions to USACO contest problems and USACO training problems
+My solutions to USACO contest problems and USACO training problems.
