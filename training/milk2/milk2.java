@@ -21,6 +21,8 @@ public class milk2 {
       times[c][0] = Integer.parseInt(line.split(" ")[0]);
       times[c][1] = Integer.parseInt(line.split(" ")[1]);
     }
+    reader.close();
+
 
     //System.out.println(longestMilkedTime(times) + " " + longestIdleTime(times));
     BufferedWriter writer = new BufferedWriter(new FileWriter("milk2.out"));
